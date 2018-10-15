@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		  write("sivan",5,7);
+		  write("hello",5,7);
 		  
 		  
 	}
